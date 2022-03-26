@@ -1,5 +1,5 @@
 ---
-tags: CSE12WI21
+tags: CSE12SP22
 ---
 ---
 # PA0 (Optional): Computer Setup
@@ -9,7 +9,7 @@ This assignment will teach you how to setup Java and Eclipse, get the starter co
 
 There is no submission for this assignment. You should complete the installation and setup of your Java tools prior to starting PA1 which will be released on Wednesday, January 6th.
 
-If you run into any problems, please reach out to a tutor during tutor hours using https://autograder.ucsd.edu/ to get 1-on-1 help (make sure to select CSE 12 - WI21), or stop by instructor/TA office hours.
+If you run into any problems, please reach out to a tutor during tutor hours using https://autograder.ucsd.edu/ to get 1-on-1 help (make sure to select CSE 12 - SP22), or stop by instructor/TA office hours.
 
 What if you already have a different version of Java? In general, you will most likely be fine, but if you run into problems compiling and running your code, we will suggest uninstalling your old version and reinstalling the latest JDK.
 
@@ -60,7 +60,7 @@ To do so, hover over the *pa0-starter* project folder icon on the package explor
 
 ![](https://i.imgur.com/591y7Qc.png)
 
-A new window will pop up, hopefully showing that the JRE library under *Modulepath* is *JRE System Library [jdk-15] (unbound)*. To specify the correct JRE, click on the current JRE > click the `Edit` button on the left > Check the `Workspace default JRE` option on the new pop-up window > `Finish` > `Apply and Close`.
+A new window will pop up, hopefully showing that the JRE library under *Modulepath* is *JRE System Library [jdk-18] (unbound)*. To specify the correct JRE, click on the current JRE > click the `Edit` button on the left > Check the `Workspace default JRE` option on the new pop-up window > `Finish` > `Apply and Close`.
 
 ![](https://i.imgur.com/Luh0ncz.png)
 
