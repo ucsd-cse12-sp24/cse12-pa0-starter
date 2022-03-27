@@ -7,7 +7,7 @@ tags: CSE12SP22
 
 This assignment will teach you how to setup Java and Eclipse, get the starter code from GitHub, and how to run Eclipse projects. If you already have the JDK installed from a previous quarter and a way to edit, compile and run Java programs, then you can skip this assignment. Any IDE can be used, however, the course staff is most familiar with Eclipse and may not be able to help you with IDE issue if you choose to use a different IDE such as IntelliJ. Note: you can also use a text editor and commandline if you wish, an IDE is not required.
 
-There is no submission for this assignment. You should complete the installation and setup of your Java tools prior to starting PA1 which will be released on Wednesday, January 6th.
+There is no submission for this assignment. You should complete the installation and setup of your Java tools prior to starting PA1 which will be released on Wednesday, March 30th.
 
 If you run into any problems, please reach out to a tutor during tutor hours using https://autograder.ucsd.edu/ to get 1-on-1 help (make sure to select CSE 12 - SP22), or stop by instructor/TA office hours.
 
